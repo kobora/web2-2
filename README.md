@@ -22,9 +22,9 @@
    
   
     </form>
-    <P>君の好きな実況者(YouTuber)を教えてね
+    君の好きな実況者(YouTuber)を教えてね
   <form id="top" action="#" method="post">
-                                   <input type="text" name="input1"></p> 
+                                <P>   <input type="text" name="input1"></p> 
     <p><input type="submit" value="送信">
     <input type="reset" value="キャンセル"></p>
 </form>
