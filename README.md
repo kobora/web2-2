@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset=“utf-8” />
@@ -7,10 +7,10 @@
     </head>
     <body>
 <section>
-  <ul>   <article><p><li><input type="checkbox"name="input12"value="akagami" id="1" ><label for="1">キヨ</label><strong>ただし</strong>サイ俺も日本TOP４も好きです</p>
+  <ul>   <article><p><li><input type="checkbox"name="input11"value="kiyo" checked>キヨ<strong>ただし</strong>サイ俺も日本TOP４も好きです</p>
        </article>
-      <article>  <p><li><input type="checkbox"name="input12"value="akagami" id="0" akagami><label for="0">赤紙のとも</label></p></article>
-    <article>  <p><li><input type="checkbox"name="input12"value="akagami" id="2" ><label for="2">リプトン+</label>特に<mark>ライラさん</mark>が好きです</p></article>
+      <article>  <p><li><input type="checkbox"name="input11"value="akagami" >赤紙のとも</p></article>
+    <article>  <p><li><input type="checkbox"name="input11"value="riputom">リプトン+特に<mark>ライラさん</mark>が好きです</p></article>
     </ul> 
 <section>  
   <form id="top" action="#" method="post"><P>君の好きな実況者(YouTuber)を教えてね
