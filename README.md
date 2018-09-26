@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
     <head>
         <meta charset=“utf-8” />
       <title><h1>私の好きな実況者</h1>
