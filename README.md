@@ -25,8 +25,8 @@
     
   <form id="top" action="#" method="post"><P>君の好きな実況者(YouTuber)を教えてね
                                    <input type="text" name="input1"></p> 
-    <p><input type="submit" value="">
-    <input type="reset" value=""></p>
+    <p><input type="submit" value="送信">
+    <input type="reset" value="キャンセル"></p>
 </form>
     </body>
 </html>
